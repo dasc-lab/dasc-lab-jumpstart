@@ -4,11 +4,12 @@ headless: true
 
 - **Getting Started**
 - Research Skills
-  - [Reading Papers Critically]({{< relref "/docs/getting-started/reading-papers" >}})
-  - Writing a conference paper
-  - Reviewing a Paper
+  - [Reading Papers]({{< relref "/docs/getting-started/reading-papers" >}})
+  - [Writing a Papers]({{< relref "/docs/getting-started/writing-papers" >}})
+  - [Reviewing Papers]({{< relref "/docs/getting-started/reviewing-papers" >}})
   - Planning Resarch
 - Communication Skills
+  - [Emails]({{< relref "/docs/getting-started/emails" >}})
   - Presentations
   - Writing
   - Crafting Contributions

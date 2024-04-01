@@ -3,39 +3,11 @@ title: Introduction
 type: docs
 ---
 
-# Acerbo datus maxime
+# Welcome to your PhD
 
-{{< columns >}}
-## Astris ipse furtiva
+PhDs are hard. This is a quick-start guide to get you started. On the left, there are some basic skills that we hope will help you understand what it takes to do research. 
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+Once you've gone through this, you might feel that you need some starter problems to understand the vast literature that is out there, and then to help you figure out where you might be able to make some contributions. For this, we have what are essentially a set of worksheets that guide you through finding papers, reading them critically, reviewing them, and recreating them.
 
-<--->
+Please help contribute to this document - it will help you, and your future labmates. 
 
-## Suis quot vota
-
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
-
-
-## Tempora nisi nunc
-
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
