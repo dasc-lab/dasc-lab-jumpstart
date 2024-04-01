@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://dasc-lab.github.io/phd-jumpstart'
 languageCode = 'en-us'
 title = 'PhD Jumpstart'
 theme = 'hugo-book'
