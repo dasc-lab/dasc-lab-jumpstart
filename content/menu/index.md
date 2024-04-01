@@ -16,6 +16,7 @@ headless: true
 - Technical Skills
   - Running Simulations
   - Running Experiments
+- [Great Resources]({{< relref "/docs/getting-started/resources.md" >}})
 
 
 <br />
@@ -24,6 +25,7 @@ headless: true
 - [Motion Planning]({{< relref "/docs/knowledge/motion-planning" >}})
 - [CBFs]({{< relref "/docs/knowledge/cbfs" >}})
 - Perception
+- [Machine Learning]({{< relref "/docs/knowledge/machine-learning" >}})
 
 <br />
 
