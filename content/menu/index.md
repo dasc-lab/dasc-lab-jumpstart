@@ -22,6 +22,7 @@ headless: true
 <br />
 
 - **Knowledge Base**
+- [Simulations]({{< relref "/docs/knowledge/simulations" >}})
 - [Motion Planning]({{< relref "/docs/knowledge/motion-planning" >}})
 - [CBFs]({{< relref "/docs/knowledge/cbfs" >}})
 - Perception
