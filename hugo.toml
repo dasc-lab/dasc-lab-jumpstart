@@ -1,6 +1,6 @@
-baseURL = 'https://dasc-lab.github.io/phd-jumpstart/'
+baseURL = 'https://dasc-lab.github.io/dasc-lab-jumpstart/'
 languageCode = 'en-us'
-title = 'PhD Jumpstart'
+title = 'DASC Lab Jumpstart'
 theme = 'hugo-book'
 
 # Book configuration
@@ -22,7 +22,7 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 # [[menu.before]]
 [[menu.after]]
   name = "Github"
-  url = "https://github.com/dasc-lab/phd-jumpstart"
+  url = "https://github.com/dasc-lab/dasc-lab-jumpstart"
   weight = 10
 
 
@@ -52,7 +52,7 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/dasc-lab/phd-jumpstart'
+  BookRepo = 'https://github.com/dasc-lab/dasc-lab-jumpstart'
 
   # Specifies commit portion of the link to the page's last modified commit hash for 'doc' page
   # type.
