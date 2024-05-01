@@ -43,7 +43,9 @@ which for $ k_1 = 1, k_2 = 1 $ will drive the system towards the equilibrium sta
 
 Look up the documentation for the diffeq library you are using: how would you setup the simulation? 
 
-Here is some starter code for running this in `julia`. The code should be fairly self explanatory:
+Here is some starter code for running this in [`julia: DifferentialEquations`](https://docs.sciml.ai/DiffEqDocs/stable/getting_started/). A very similar structure would be used in [`python: solve_ivp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html) or [`matlab: ODE45`](https://www.mathworks.com/help/matlab/ref/ode45.html). 
+
+The code should be fairly self explanatory:
 
 ```julia
 
@@ -145,10 +147,12 @@ $$
 
 where the control inputs are force $f$ (a scalar) and the torque $M$ (a three-vector). Naturally, in a quadrotor one must control the angular speed of the four motors, and in (Eq. 1) Lee shows the conversion that is commonly used in practice. 
 
-Question: What approximations did Lee make in deriving these dynamics equations for a quadrotor? 
+Question: What approximations did Lee make in deriving these dynamics?
 
 
 Now try implementing a controller. The basic form is the same:
+
+{{< expand "julia example" >}}
 
 ```julia
 
@@ -202,6 +206,8 @@ sol = solve(prob, ...)
 plot(sol)
 
 ```
+
+{{< /expand >}}
 
 **Hints:**
 - Look at [ComponentArrays](https://github.com/jonniedie/ComponentArrays.jl) if you are lazy to write the destructuring and restructuring code
